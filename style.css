@@ -1,0 +1,13 @@
+#allBooks{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.book{
+    max-width: 23%;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px rgb(142, 142, 142);
+    margin: 20px;
+}
